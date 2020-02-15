@@ -1,0 +1,5 @@
+a=list(map(int,input().split()))
+h=a.pop()
+b=a.pop()
+s=(b*h)/2
+print(s)
